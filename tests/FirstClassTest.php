@@ -1,6 +1,6 @@
 <?php
 
-namespace TheTestCoder\PhpPackageStructure\Tests;
+namespace TheOwaisAzam\PhpPackageStructure\Tests;
 
 use PHPUnit\Framework\TestCase;
 use TheTestCoder\PhpPackageStructure\FirstClass;

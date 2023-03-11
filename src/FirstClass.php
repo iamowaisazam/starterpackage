@@ -1,6 +1,6 @@
 <?php
 
-namespace TheTestCoder\PhpPackageStructure;
+namespace TheOwaisAzam\PhpPackageStructure;
 
 class FirstClass
 {
