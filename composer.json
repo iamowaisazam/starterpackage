@@ -22,9 +22,7 @@
         }
     },
     "autoload-dev": {
-        "psr-4": {
-            "TheOwaisAzam\\OwaisCalculator\\Tests\\": "tests"
-        }
+       
     },
     "scripts": {
         "test": "vendor\\bin\\phpunit",
