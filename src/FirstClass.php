@@ -1,6 +1,6 @@
 <?php
 
-namespace TheOwaisAzam\OwaisCalculator;
+namespace TheTestCoder\PhpPackageStructure;
 
 class FirstClass
 {

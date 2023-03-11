@@ -1,11 +1,11 @@
 {
-    "name": "owaisazam/owaispackage",
+    "name": "vendor-name/package-name",
     "description": "package description here",
     "license": "MIT",
     "authors": [
         {
-            "name": "Owais Azam",
-            "email": "iamowaisazam@gmail.com"
+            "name": "Author Name",
+            "email": "author@email.com"
         }
     ],
     "minimum-stability": "dev",
@@ -18,11 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "TheOwaisAzam\\OwaisCalculator\\": "src"
+            "TheTestCoder\\PhpPackageStructure\\": "src"
         }
     },
     "autoload-dev": {
-       
+        "psr-4": {
+            "TheTestCoder\\PhpPackageStructure\\Tests\\": "tests"
+        }
     },
     "scripts": {
         "test": "vendor\\bin\\phpunit",
