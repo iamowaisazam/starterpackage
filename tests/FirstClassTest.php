@@ -1,9 +1,9 @@
 <?php
 
-namespace TheOwaisAzam\PhpPackageStructure\Tests;
+namespace TheOwaisAzam\OwaisCalculator\Tests;
 
 use PHPUnit\Framework\TestCase;
-use TheTestCoder\PhpPackageStructure\FirstClass;
+use TheOwaisAzam\OwaisCalculator\FirstClass;
 
 class FirstClassTest extends TestCase
 {

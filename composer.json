@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "TheOwaisAzam\\PhpPackageStructure\\": "src"
+            "TheOwaisAzam\\OwaisCalculator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TheOwaisAzam\\PhpPackageStructure\\Tests\\": "tests"
+            "TheOwaisAzam\\OwaisCalculator\\Tests\\": "tests"
         }
     },
     "scripts": {
