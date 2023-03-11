@@ -1,11 +1,11 @@
 {
-    "name": "vendor-name/package-name",
+    "name": "owaisazam/starterpackage",
     "description": "package description here",
     "license": "MIT",
     "authors": [
         {
-            "name": "Author Name",
-            "email": "author@email.com"
+            "name": "Owais Azam",
+            "email": "iamowaisazam@gmail.com"
         }
     ],
     "minimum-stability": "dev",
