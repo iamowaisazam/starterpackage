@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "TheTestCoder\\PhpPackageStructure\\": "src"
+            "TheOwaisAzam\\PhpPackageStructure\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "TheTestCoder\\PhpPackageStructure\\Tests\\": "tests"
+            "TheOwaisAzam\\PhpPackageStructure\\Tests\\": "tests"
         }
     },
     "scripts": {
